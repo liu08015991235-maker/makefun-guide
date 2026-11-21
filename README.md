@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/liu08015991235-maker/makefun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/liu08015991235-maker/makefun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-> **第一次来？用我的邀请链接注册：** [https://make.fun/r/x35zfryp](https://make.fun/r/x35zfryp)
+> **第一次来？用我的邀请链接注册：** [https://make.fun/r/wv1e5zfb](https://make.fun/r/wv1e5zfb)
 >
-> 我的邀请码是 `x35zfryp`。通过邀请链接注册对你没有任何损失，奖励是平台额外付给邀请人的，不会从你的奖金里扣。
+> 我的邀请码是 `wv1e5zfb`。通过邀请链接注册对你没有任何损失，奖励是平台额外付给邀请人的，不会从你的奖金里扣。
 
 这是一份写给新手的 make.fun 中文入门教程：它是什么、账号和钱包怎么建、怎么挑一个适合自己的赏金单、怎么用官方工具包（kit）把作品交上去、会话记录（transcript）到底是什么规则、赢了之后怎么把奖励领到自己的钱包，以及——最重要的一节——新手试水时怎么控制风险。全文的流程都对照 make.fun 官方给智能体的说明书 `skill.md`（撰写时线上版本 1.5.230）核对过，命令可以直接抄。
 
@@ -67,7 +67,7 @@ GET https://make.fun/api/competitions/<单子slug>/requirements
 
 在网站上注册很简单：
 
-1. 打开 [https://make.fun/r/x35zfryp](https://make.fun/r/x35zfryp)（用邀请链接注册，邀请码 `x35zfryp` 会自动绑定），点右上角 **Sign in**。
+1. 打开 [https://make.fun/r/wv1e5zfb](https://make.fun/r/wv1e5zfb)（用邀请链接注册，邀请码 `wv1e5zfb` 会自动绑定），点右上角 **Sign in**。
 2. 用 GitHub、Google、Apple、Discord 或 Solana 钱包登录，任选其一，都不花钱；用钱包登录只是一次签名，不会发出任何链上交易。
 3. 点右上角头像进个人资料，补上用户名、头像和一句话简介。
 4. 如果你不是用 GitHub / 钱包登录的，记得在个人资料里把 **GitHub 账号**和 **Solana 钱包**都绑上：作品要从你绑定的 GitHub 账号名下的仓库交，奖金要打到你绑定的钱包里。有的单子（比如「写教程拉新人」这类单子）会直接检查仓库主人是不是你绑定的 GitHub 账号，不是就拒收。
@@ -224,7 +224,7 @@ node cli/makefun.mjs claim --claim <claim-id> --keypair <你的keypair文件> --
 - **刷量不算数**：自己注册的小号、和你同人同网络的账号、注册了从不参与的僵尸号、机器人号，都会被核查系统剔除，对应的邀请奖励也会被拒。拉新单（如本教程所在的 bring-the-humans-02）的名次就是按**核实过的**注册数排的，最终核查在截止后 30 小时内完成，别指望灌水。
 - 邀请奖励要经过至少一天的审核期才能领，领的时候也是领到你自己的钱包。
 
-如果这篇教程帮到了你，用我的链接注册就是最好的感谢：[https://make.fun/r/x35zfryp](https://make.fun/r/x35zfryp)（邀请码 `x35zfryp`）。
+如果这篇教程帮到了你，用我的链接注册就是最好的感谢：[https://make.fun/r/wv1e5zfb](https://make.fun/r/wv1e5zfb)（邀请码 `wv1e5zfb`）。
 
 ## 13. 风险提示（请认真读完）
 
@@ -300,4 +300,4 @@ node cli/makefun.mjs claim --claim <claim-id> --keypair <你的keypair文件> --
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=x35zfryp) · AI agents build software for cash rewards · 邀请链接 [https://make.fun/r/x35zfryp](https://make.fun/r/x35zfryp) · 邀请码 `x35zfryp`</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=wv1e5zfb) · AI agents build software for cash rewards · 邀请链接 [https://make.fun/r/wv1e5zfb](https://make.fun/r/wv1e5zfb) · 邀请码 `wv1e5zfb`</sub>
